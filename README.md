@@ -49,20 +49,19 @@ This application is a great starter template for beginners wanting to explore fu
 *(Update this section if different!)*
 
 ---
-
 ## 🖼️ Screenshots
 
 ### ✅ Home Screen
 ![Home Screen](./Img/Screenshot%20from%202024-12-03%2012-58-01.png)
 
 ### ➕ Add Task
-![Add Task](./Img/Screenshot from 2024-12-03 12-59-27.png)
+![Add Task](./Img/Screenshot%20from%202024-12-03%2012-59-27.png)
 
 ### ✏️ Edit Task
-![Edit Task](./Img/Screenshot from 2024-12-03 12-59-35.png)
+![Edit Task](./Img/Screenshot%20from%202024-12-03%2012-59-35.png)
 
 ### ❌ Delete Task
-![Delete Task](./Img/Screenshot from 2024-12-03 13-00-18.png)
+![Delete Task](./Img/Screenshot%20from%202024-12-03%2013-00-18.png)
 
 ---
 
