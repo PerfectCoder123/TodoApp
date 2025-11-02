@@ -41,12 +41,10 @@ This application is a great starter template for beginners wanting to explore fu
 
 ## 🧠 Tech Stack
 ### Frontend
-- HTML, CSS, JavaScript *(or framework as per your repo)*
+- HTML, CSS, JavaScript
 
 ### Backend
-- C# / ASP.NET Web API *(based on repository language stats)*
-
-*(Update this section if different!)*
+- C# / ASP.NET Web API 
 
 ---
 ## 🖼️ Screenshots
@@ -85,7 +83,7 @@ Make sure you have installed:
 
 - Git
 - Node.js (v14+ recommended)
-- .NET SDK (if backend is .NET)
+- .NET SDK
 - npm or yarn
 
 ---
